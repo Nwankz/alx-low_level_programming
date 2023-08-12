@@ -10,8 +10,8 @@ int main(void)
 
 	C = 'a';
 	while
-		(C <= 'Z') {
-			putchar(C);
+		(C <= 'z') {
+			putchar(c);
 			C++;
 		}
 	putchar('\n');
